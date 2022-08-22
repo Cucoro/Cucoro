@@ -1,7 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="50px">
-</picture>
 
 ### Olá!! Eu sou Marcos Cucoro 👋
 
@@ -38,12 +34,12 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/MarcosCucoro/MarcosCucoro/blob/output/github-contribution-grid-snake.svg">
-      <img alt="" src="https://github.com/MarcosCucoro/MarcosCucoro/blob/output/github-contribution-grid-snake.svg" />
+    <a href="https://github.com/Cucoro/Cucoro/blob/output/github-contribution-grid-snake.svg">
+      <img alt="" src="https://github.com/Cucoro/Cucoro/blob/output/github-contribution-grid-snake.svg" />
     </a>
 
 <p align="center">
-    <a href="https://visitor-badge.glitch.me/badge?page_id=MarcosCucoro.MarcosCucoro">
-      <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=MarcosCucoro.MarcosCucoro" />
+    <a href="https://visitor-badge.glitch.me/badge?page_id=Cucoro.Cucoro">
+      <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=Cucoro.Cucoro" />
     </a>
 
